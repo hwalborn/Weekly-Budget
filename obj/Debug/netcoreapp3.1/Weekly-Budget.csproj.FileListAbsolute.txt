@@ -8,3 +8,11 @@
 /Users/h.walborn/Code/personal/Weekly-Budget/obj/Debug/netcoreapp3.1/Weekly-Budget.AssemblyInfo.cs
 /Users/h.walborn/Code/personal/Weekly-Budget/obj/Debug/netcoreapp3.1/Weekly-Budget.dll
 /Users/h.walborn/Code/personal/Weekly-Budget/obj/Debug/netcoreapp3.1/Weekly-Budget.pdb
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/google-credentials.json
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Google.Apis.dll
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Google.Apis.Auth.PlatformServices.dll
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Google.Apis.Auth.dll
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Google.Apis.Core.dll
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Google.Apis.Sheets.v4.dll
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/h.walborn/Code/personal/Weekly-Budget/obj/Debug/netcoreapp3.1/Weekly-Budget.csproj.CopyComplete

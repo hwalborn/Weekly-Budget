@@ -6,4 +6,13 @@
     <RootNamespace>Weekly_Budget</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.54.0.2371" />
+  </ItemGroup>
+
+    <ItemGroup>
+    <Content Include="google-credentials.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    </ItemGroup>
 </Project>
