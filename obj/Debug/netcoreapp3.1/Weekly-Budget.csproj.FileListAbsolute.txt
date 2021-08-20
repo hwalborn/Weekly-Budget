@@ -1,0 +1,10 @@
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Weekly-Budget.deps.json
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Weekly-Budget.runtimeconfig.json
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Weekly-Budget.runtimeconfig.dev.json
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Weekly-Budget.dll
+/Users/h.walborn/Code/personal/Weekly-Budget/bin/Debug/netcoreapp3.1/Weekly-Budget.pdb
+/Users/h.walborn/Code/personal/Weekly-Budget/obj/Debug/netcoreapp3.1/Weekly-Budget.csprojAssemblyReference.cache
+/Users/h.walborn/Code/personal/Weekly-Budget/obj/Debug/netcoreapp3.1/Weekly-Budget.AssemblyInfoInputs.cache
+/Users/h.walborn/Code/personal/Weekly-Budget/obj/Debug/netcoreapp3.1/Weekly-Budget.AssemblyInfo.cs
+/Users/h.walborn/Code/personal/Weekly-Budget/obj/Debug/netcoreapp3.1/Weekly-Budget.dll
+/Users/h.walborn/Code/personal/Weekly-Budget/obj/Debug/netcoreapp3.1/Weekly-Budget.pdb
